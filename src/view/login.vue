@@ -48,7 +48,7 @@
     <div class="m-login-body">
       <h2>登录</h2>
       <div class="m-login-item">
-        <input type="text" v-model="accesstoken" placeholder="请出入Access Token" />
+        <input type="text" v-model="accesstoken" placeholder="请输入Access Token" />
       </div>
       <div class="m-login-item">
         <a href="javascript:;" @click="login">登录</a>
